@@ -42,7 +42,4 @@ ul.posts li {
     list-style: none;
 }
 
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
+
